@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { AiOutlineClose } from "react-icons/ai";
-import { IoIosArrowBack, IoIosArrowDown } from "react-icons/io";
+import { IoIosArrowDown } from "react-icons/io";
 import { useAutoAnimate } from "@formkit/auto-animate/react";
 
 type NavItem = {

@@ -2,7 +2,6 @@
 
 import Image from "next/image";
 import NavItems, { MobileNav } from "../navbar/navItem";
-import { Button } from "../button";
 import { FiMenu } from "react-icons/fi";
 import { useState } from "react";
 import { useAutoAnimate } from "@formkit/auto-animate/react";
