@@ -69,6 +69,7 @@ export default function NavItems() {
     <div className="hidden md:flex md:items-center gap-4 transition-all">
       {navItems.map((d, i) => (
         <Link
+          key={i}
           className="text-primary font-bold px-2 py-3 transition-all relative group"
           href={d.link ?? "#"}
         >

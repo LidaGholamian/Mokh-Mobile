@@ -1,6 +1,5 @@
 "use client";
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { AiOutlineClose } from "react-icons/ai";
 import NavbarNew from "./nav";
 
